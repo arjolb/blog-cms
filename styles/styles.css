@@ -1,0 +1,33 @@
+img {
+  max-width: 100%; }
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: 'Roboto','Arial',sans-serif; }
+
+header h1 {
+  padding: 50px 0;
+  font-size: 30px; }
+  header h1 small {
+    margin-left: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+    border-left: 1px solid black;
+    font-family: 'Nova Script'; }
+
+header nav li a {
+  font-size: 18px !important; }
+
+h4 span {
+  font-family: 'Nova Script'; }
+
+footer span {
+  letter-spacing: 3px;
+  margin: 0 10px; }
+
+textarea {
+  resize: none; }

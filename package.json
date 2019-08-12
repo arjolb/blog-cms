@@ -1,0 +1,29 @@
+{
+  "name": "library-cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "babel-loader": "^8.0.6",
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "webpack": "^4.35.3"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.6.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "jquery-smooth-scroll": "^2.2.0",
+    "popper.js": "^1.15.0"
+  }
+}
